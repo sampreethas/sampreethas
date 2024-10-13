@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**sampreethas/sampreethas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing innovative web/app audio solutions to enhance user experience in Embedded Systems.
 - 🌱 I’m currently learning Machine Learning, Cloud applications in web/app development.  
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sampreetha.s1997@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
--->
+
