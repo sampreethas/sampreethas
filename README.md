@@ -1,5 +1,5 @@
 
-## ![Hi there, I'm Sampreetha](https://media.giphy.com/media/your_gif_link.gif)
+# **✨ Hi there, I'm Sampreetha ✨** 👋
 
 
 - 🔭 I’m currently working on developing innovative web/app audio solutions to enhance user experience in Embedded Systems.
