@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on developing innovative web/app audio solutions to enhance user experience in Embedded Systems.
 - 🤔 I’m looking for help with expanding my expertise in emerging technologies.
-- 💬 Ask me about web development, machine learning.
+- 💬 Ask me about cloud computing, automation and machine learning.
 - 😄 Pronouns: She/Her
 
 
@@ -37,8 +37,6 @@
 ## 🎓 Learning Goals
 - Currently learning [Machine Learning, Cloud applications in web/app development].
 
-## 🤝 Collaboration Interests
-- Open to collaborating on [machine learning applications or full-stack web development].
 
 ## 😄 Fun Facts
 - Foodie at heart! I love experimenting with recipes and crafting new ideas :)
